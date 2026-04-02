@@ -95,3 +95,13 @@ Fully responsive layout optimized for **desktop, tablet, and mobile devices**.
 ├── package.json
 ├── tailwind.config.js
 └── README.md
+```
+---
+## 👨‍💻 Author
+
+**Shital Patil**
+
+Software Engineer delivering high-quality applications while staying curious and up-to-date with emerging technologies.
+
+- GitHub: https://github.com/shital1223
+- LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/shital-patil-498372102/)
